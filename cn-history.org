@@ -12,6 +12,10 @@ ref: https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2
 ** 4.1	西周
 ** 4.2	東周
 *** 4.2.1	春秋時代
+**** people
+***** Lao-Tze
+[["If you wish to be out front, then act as if you were behind"][https://youtu.be/U631JUhEczs?t=43]
+I am not sure the exact source.
 *** 4.2.2	戰國時代
 * 5	秦汉时期
 ** 5.1	秦朝
