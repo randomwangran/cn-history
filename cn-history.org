@@ -36,9 +36,12 @@ I am not sure the exact source.
 * 8	辽宋夏金时期
 ** 8.1	宋朝
 *** people: [[https://en.wikipedia.org/wiki/Su_Shi][苏轼]]
-题西林壁
+<<题西林壁>>
+
 [[https://github.com/jonnyhyman/Chaos][横看成岭侧成峰]]，远近高低各不同。
+
 不识庐山真面目，只缘身在此山中。
+
 ** 8.2	遼朝
 ** 8.3	西夏
 ** 8.4	金朝
