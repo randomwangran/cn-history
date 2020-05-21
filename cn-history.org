@@ -14,7 +14,7 @@ ref: https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2
 *** 4.2.1	春秋時代
 **** people
 ***** Lao-Tze
-[["If you wish to be out front, then act as if you were behind"][https://youtu.be/U631JUhEczs?t=43]
+[[https://youtu.be/U631JUhEczs?t=43]["If you wish to be out front, then act as if you were behind"]]
 I am not sure the exact source.
 *** 4.2.2	戰國時代
 * 5	秦汉时期
@@ -35,6 +35,10 @@ I am not sure the exact source.
 ** 7.3	五代十国
 * 8	辽宋夏金时期
 ** 8.1	宋朝
+*** people: [[https://en.wikipedia.org/wiki/Su_Shi][苏轼]]
+题西林壁
+[[https://github.com/jonnyhyman/Chaos][横看成岭侧成峰]]，远近高低各不同。
+不识庐山真面目，只缘身在此山中。
 ** 8.2	遼朝
 ** 8.3	西夏
 ** 8.4	金朝
